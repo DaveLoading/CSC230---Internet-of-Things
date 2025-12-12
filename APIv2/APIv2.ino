@@ -4,11 +4,11 @@
 #include <Arduino_JSON.h>
 
 
-const char* ssid = "Frontierg5552";
-const char* password = "1859115180";
+const char* ssid = "wifi";
+const char* password = "password";
 
 //Your Domain name with URL path or IP address with path 
-String openWeatherMapApiKey = "9ea881cd9073ee70f5711e6757c55bd0";
+String openWeatherMapApiKey = "apikey";
 
 
 //Replace with your country code and city
