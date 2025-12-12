@@ -3,8 +3,8 @@
 #include <M5Core2.h>   // M5Core2 display, buttons, power, etc.
 
 
-const char *ssid       = "wificlazbloomg";  
-const char *password   = "656765011316Sham";      
+const char *ssid       = "wifi";  
+const char *password   = "password";      
 
 
 const char *mqtt_broker   = "broker.emqx.io";
